@@ -16,7 +16,7 @@ Sou um **Analista de Dados** focado em transformar grandes volumes de dados brut
 
 ### 📊 Projetos em Destaque
 * **[Análise Exploratória: Case Instacart](https://github.com/danieldata-analytics/analise-dados-instacart):** Limpeza e análise de comportamento de consumo em uma base de +4,5 milhões de registros.
-* **[Análise de Comportamento: Streaming de Música](LINK_DO_SEU_REPOSITORIO_MUSICA):** Teste de hipóteses e comparação de preferências musicais entre cidades.
+* **[Análise de Comportamento: Streaming de Música](https://github.com/danieldata-analytics/analise-streaming-musica):** Teste de hipóteses e comparação de preferências musicais entre cidades.
 ---
 
 ### 📫 Contato
